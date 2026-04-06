@@ -67,7 +67,7 @@ The study aims to evaluate the interaction of natural compounds with EGFR using 
 ## 🖼️ Visualization
 
 <p align="center">
-  <img src="images/egfr_docking.png" width="500"/>
+  <img <img src="images/egfr_docking.png" width="500"/>
 </p>
 
 <p align="center">
